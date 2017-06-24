@@ -1,0 +1,19 @@
+{
+  "name": "emanuele",
+  "version": "0.1.0",
+  "description": "Emanuele",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://LostCrew@bitbucket.org/LostCrew/emanuele.git"
+  },
+  "author": "Emanuele Marchi",
+  "license": "©",
+  "devDependencies": {
+    "gulp-babel": "^4.0.0"
+  },
+  "scripts": {
+    "copy": "cp -r",
+    "build": ""
+  }
+}
