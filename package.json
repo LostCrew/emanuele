@@ -8,12 +8,16 @@
     "url": "https://LostCrew@bitbucket.org/LostCrew/emanuele.git"
   },
   "author": "Emanuele Marchi",
-  "license": "©",
-  "devDependencies": {
-    "gulp-babel": "^4.0.0"
-  },
-  "scripts": {
-    "copy": "cp -r",
-    "build": ""
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [],
+  "private": true,
+  "bugs": "https://github.com/LostCrew/emanuele/issues",
+  "contributors": [],
+  "homepage": "https://emanuele.nl",
+  "dependencies": {},
+  "engines": {
+    "node": ">=7"
   }
 }
